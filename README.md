@@ -1,3 +1,7 @@
-<h1>Partiu! Compras e Supermercados</h1>
+# Partiu! Compras e Supermercados
 
-Projeto desenvolvido em **A escolher** para o serviço de promoções para compras e supermercados.
+Projeto desenvolvido em <*a escolher*> para o serviço de promoções para compras e supermercados.
+
+## teste de integração serão adicionados
+
+### stack será adotada para desenvolvimento aprofundado
